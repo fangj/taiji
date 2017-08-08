@@ -206,3 +206,7 @@
 跺右脚,弓箭步,双拳轰头上,收回,轰胸口
  
 ![招式关系图](taiji_n1.png)
+
+图编辑器：
+http://www.yworks.com/products/yed/download
+https://github.com/gephi/gephi
